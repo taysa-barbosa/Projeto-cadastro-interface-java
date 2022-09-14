@@ -1,0 +1,2 @@
+# Projeto-cadastro-interface-java
+Esse projeto busca criar uma tela de cadastro de pedidos utilizando a linguagem Java e seu pacote de interface (Java Swing), O Swing é um framework que disponibiliza um conjunto de elementos gráficos para ser utilizado na plataforma Java, ele renderiza os elementos por conta própria, algumas funções foram agregadas aos botões que estão conectados a um banco de dados, as funções podem cadastrar um novo produto, onde já será definido por default o ID e a data de cadastro, o usuário poderá salvar, excluir ou atualizar os dados. 
